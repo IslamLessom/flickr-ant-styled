@@ -1,0 +1,294 @@
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+.header {
+  background: #313131 !important;
+  color: white !important;
+}
+
+.header li {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+}
+
+.logo img {
+  width: 24px;
+}
+
+.logo {
+  text-align: right;
+}
+
+.content-home {
+  background: black;
+}
+
+.ant-col-24 {
+  display: flex !important;
+  color: white;
+}
+
+.description h1,
+.description h3 {
+  color: white;
+}
+
+.description h1 {
+  font-size: 35px;
+}
+
+.description h3 {
+  font-size: 20px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.discounts {
+  display: flex !important;
+  justify-content: center !important;
+  text-align: center;
+  padding-top: 40px;
+}
+
+.description button {
+  margin-bottom: 10px;
+}
+
+.link {
+  display: flex;
+  justify-content: center;
+}
+
+.link a {
+  color: hsl(202deg 47% 57%);
+}
+
+.dis-link {
+  padding-bottom: 30px;
+}
+
+.description button {
+  width: 120px;
+}
+
+.hr {
+  height: 10px;
+  border: none;
+  background: #313131;
+  margin: 0;
+}
+
+.content-phon h1,
+.content-phon h3 {
+  color: white;
+  text-align: center;
+}
+
+.img-content {
+  width: 100%;
+}
+
+.img-content img {
+  width: 70%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-content-xs img {
+  width: 90%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.content-phon h1 {
+  font-size: 30px;
+  padding-top: 30px;
+}
+
+.content-phon h3 {
+  font-size: 20px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mac-content {
+  text-align: center;
+  background: hsl(0, 0%, 90%);
+  margin-top: 10px;
+}
+
+.mac-content h1 {
+  color: black;
+  font-size: 50px;
+  padding-top: 30px;
+}
+
+.mac-content h3 {
+  color: black;
+  font-size: 33px;
+}
+
+.images-mac img {
+  width: 80%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.product-apple, .product-apple-ip {
+  background: hsl(0, 0%, 90%);
+  margin: 3px;
+  text-align: center;
+  width: 49.6%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ant-col-12 {
+  max-width: 100% !important;
+}
+
+.six-product {
+  margin-top: 3px;
+  margin-bottom: 30px;
+}
+
+.images-product img {
+  width: 50%;
+  margin-bottom: 10px;
+}
+
+.product-apple h1 {
+  font-size: 50px;
+  padding-top: 15px;
+}
+
+.product-apple h2 {
+  color: red;
+  margin-top: -40px;
+}
+
+.product-apple p {
+  font-size: 20px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer-hr {
+  margin-top: 30px;
+}
+
+.footer {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer-menu {
+  display: flex;
+}
+
+.menu-content-f {
+  display: flex;
+  flex-direction: column;
+}
+
+.menu-content-f h2 {
+  width: 200px;
+  text-align: left;
+  font-size: 19px;
+}
+
+.menu-footer {
+  width: 20%;
+  display: flex;
+  justify-content: center;
+}
+
+.ant-col-6 {
+  max-width: 100% !important;
+  text-align: center;
+}
+
+.h4-footer {
+  text-align: left;
+  height: 25px;
+}
+
+.h4-footer h4 {
+  margin: 0px;
+}
+
+.content-all-product {
+  background: white;
+}
+
+.menu-ul ul {
+  display: flex;
+}
+
+.menu-ul li {
+  padding-left: 22px;
+  padding-right: 22px;
+  color: white;
+}
+
+.menu-ul a {
+  color: white;
+  font-size: 15px;
+}
+
+.card {
+  background: hsl(0, 0%, 90%);
+  margin: 3px;
+  text-align: center;
+  width: 49.6%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+}
+
+.product-apple-ip {
+  width: 45%;
+  padding: 30px;
+  padding-bottom: 0;
+  border-radius: 20px;
+}
+
+.iphone-content {
+  margin-top: 30px;
+}
+
+.link-ip {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.link-ip a {
+  color: hsl(202deg 47% 57%);
+}
+
+.product-apple-ip img {
+  width: 90%;
+  height: 360px;
+  margin-bottom: 20px;
+}
+
+.faq {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
